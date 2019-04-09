@@ -1,6 +1,6 @@
-#include "myB.h"
+#include "myD.h"
 
-myB::myB() : b(0)
+myD::myD() : d(0)
 {
 
 }

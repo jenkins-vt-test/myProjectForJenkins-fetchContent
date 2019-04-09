@@ -1,14 +1,14 @@
-#ifndef MYB_H
-#define MYB_H
+#ifndef MYD_H
+#define MYD_H
 
 
-class myB
+class myD
 {
 public:
-  myB();
+  myD();
 
 private:
-  int b;
+  int d;
 };
 
 #endif // MYB_H

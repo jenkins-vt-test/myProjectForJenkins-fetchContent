@@ -1,8 +1,8 @@
-#include "myB.h"
+#include "myD.h"
 
 int main(int argc, char *argv[])
 {
-    myB b;
+    myD b;
 
     return 0;
 }

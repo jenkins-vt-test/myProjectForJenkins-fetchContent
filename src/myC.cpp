@@ -1,6 +1,6 @@
-#include "myA.h"
+#include "myC.h"
 
-myA::myA() : name_("myName"), a_(1.), count_(1)
+myC::myC() : name_("myName"), c_(1.), count_(1)
 {
 
 }

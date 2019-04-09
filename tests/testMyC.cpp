@@ -1,8 +1,8 @@
-#include "myA.h"
+#include "myC.h"
 
 int main(int argc, char *argv[])
 {
-    myA a;
+    myC a;
 
     return 0;
 }

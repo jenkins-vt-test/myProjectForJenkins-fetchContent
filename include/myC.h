@@ -1,16 +1,16 @@
-#ifndef MYA_H
-#define MYA_H
+#ifndef MYC_H
+#define MYC_H
 
 #include <string>
-class myA
+class myC
 {
 public:
-  myA();
+  myC();
 
 private:
   std::string name_;
-  double a_;
+  double C_;
   int count_;
 };
 
-#endif // MYA_H
+#endif // MYC_H
