@@ -9,7 +9,7 @@ public:
 
 private:
   std::string name_;
-  double C_;
+  double c_;
   int count_;
 };
 
